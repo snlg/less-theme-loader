@@ -24,14 +24,14 @@ module.exports = {
 ```
 **org file**
 ```less
-bady{
+body{
   ...
 }
 ```
 **output file**
 ```less
 @import 'xxx'
-bady{
+body{
   ...
 }
 ```
